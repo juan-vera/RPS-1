@@ -2,6 +2,19 @@
 cod 1
 ## RPS-2
 cod 2
+<ul>
+
+ <li>Neil Armstrong</li>
+
+ <li>Alan Bean</li>
+
+ <li>Peter Conrad</li>
+
+ <li>Edgar Mitchell</li>
+
+ <li>Alan Shepard</li>
+
+ </ul>
 ## RPS-3
 cod 3
 - que pasa si lo modifico
